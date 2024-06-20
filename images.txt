@@ -7,7 +7,7 @@ xhofe/alist:latest
 portainer/portainer-ce:alpine-sts
 zhayujie/chatgpt-on-wechat:latest
 ramisec/nessus:latest
-greenbone/openvas-scanner
+###Openvas###
 greenbone/vulnerability-tests
 greenbone/notus-data
 greenbone/scap-data
@@ -17,9 +17,10 @@ greenbone/data-objects
 greenbone/report-formats
 greenbone/gpg-data
 greenbone/redis-server
-greenbone/pg-gvm
-greenbone/gvmd
-greenbone/gsa
-greenbone/ospd-openvas
-greenbone/gvm-tools
+greenbone/pg-gvm:stable
+greenbone/gvmd:stable
+greenbone/gsa:stable
+greenbone/openvas-scanner:stable
+greenbone/ospd-openvas:stable
+greenbine/gvm-tools
 
