@@ -17,8 +17,8 @@ greenbone/data-objects
 greenbone/report-formats
 greenbone/gpg-data
 greenbone/redis-server
-greenbone/pg-gvm:stable
-greenbone/gvmd:stable
-greenbone/gsa:stable
-greenbone/ospd-openvas:stable
+greenbone/pg-gvm
+greenbone/gvmd
+greenbone/gsa
+greenbone/ospd-openvas
 greenbone/gvm-tools
