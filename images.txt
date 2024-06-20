@@ -12,7 +12,7 @@ greenbone/vulnerability-tests
 greenbone/notus-data
 greenbone/scap-data
 greenbone/cert-bund-data
-greenline/dfn-cert-data
+greenbone/dfn-cert-data
 greenbone/data-objects
 greenbone/report-formats
 greenbone/gpg-data
@@ -22,3 +22,4 @@ greenbone/gvmd
 greenbone/gsa
 greenbone/ospd-openvas
 greenbone/gvm-tools
+
