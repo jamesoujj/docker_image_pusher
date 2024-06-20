@@ -7,3 +7,4 @@ xhofe/alist:latest
 portainer/portainer-ce:alpine-sts
 zhayujie/chatgpt-on-wechat:latest
 ramisec/nessus:latest
+greenbone/openvas-scanner
