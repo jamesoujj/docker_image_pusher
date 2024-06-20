@@ -22,5 +22,5 @@ greenbone/gvmd:stable
 greenbone/gsa:stable
 greenbone/openvas-scanner:stable
 greenbone/ospd-openvas:stable
-greenbine/gvm-tools
+greenbone/gvm-tools
 
