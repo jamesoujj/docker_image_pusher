@@ -8,3 +8,17 @@ portainer/portainer-ce:alpine-sts
 zhayujie/chatgpt-on-wechat:latest
 ramisec/nessus:latest
 greenbone/openvas-scanner
+greenbone/vulnerability-tests
+greenbone/notus-data
+greenbone/scap-data
+greenbone/cert-bund-data
+greenline/dfn-cert-data
+greenbone/data-objects
+greenbone/report-formats
+greenbone/gpg-data
+greenbone/redis-server
+greenbone/pg-gvm:stable
+greenbone/gvmd:stable
+greenbone/gsa:stable
+greenbone/ospd-openvas:stable
+greenbone/gvm-tools
