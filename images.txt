@@ -24,3 +24,6 @@ greenbone/openvas-scanner:stable
 greenbone/ospd-openvas:stable
 greenbone/gvm-tools
 
+#MiGPT
+idootop/mi-gpt
+idootop/mi-gpt-tts
